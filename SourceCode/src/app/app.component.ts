@@ -11,12 +11,7 @@ import { ListPage } from '../pages/list/list';
 import { DroneregisterPage } from '../pages/droneregister/droneregister';
 import { MyProfilePage } from '../pages/my-profile/my-profile';
 const config = {
-    apiKey: "AIzaSyC5h4nF5X6kc1ffrmu7453aTP-7xix5rJ8",
-    authDomain: "drector-cs.firebaseapp.com",
-    databaseURL: "https://drector-cs.firebaseio.com",
-    projectId: "drector-cs",
-    storageBucket: "drector-cs.appspot.com",
-    messagingSenderId: "777225387359"
+   //Your key here
 };
 @Component({
   templateUrl: 'app.html'
